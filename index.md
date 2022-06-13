@@ -1,0 +1,1 @@
+<iframe width="940px" height="516px" src="https://www.yumpu.com/tr/embed/view/xbGtCDwvnd5rYmFU" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe><br><a href="https://www.yumpu.com/tr/document/view/66992052/katalog-resadiye" title="Katalog_Resadiye" target="_blank">Katalog_Resadiye</a>
