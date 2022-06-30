@@ -1,1 +1,1 @@
-<iframe width="620px" height="588px" src="https://www.yumpu.com/tr/embed/view/8bV5O1ufS3rcXTqD" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe><br><a href="https://www.yumpu.com/tr/document/view/67041457/katalog-resadiye-33x22" title="Katalog_Resadiye 33X22" target="_blank">Katalog_Resadiye 33X22</a>
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/5ec0edd6eb.html" style="border: 1px solid lightgray; width: 100%; height: 400px;"></iframe>
